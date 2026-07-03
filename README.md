@@ -24,12 +24,11 @@
 david@nairobi ~ % fetch
 
   ██████╗ ███╗   ███╗       OS: Full-Stack Software Developer
-  ██╔══██╗████╗ ████║       Host: ECOM Technologies LTD
-  ██║  ██║██╔████╔██║       Kernel: React · Laravel · MySQL
-  ██║  ██║██║╚██╔╝██║       Shell: TypeScript, Next.js, Angular,
-  ██████╔╝██║ ╚═╝ ██║               Flask, C#/.NET
-  ╚═════╝ ╚═╝     ╚═╝       Education: BSc. IT, JKUAT
-                            Diploma in IT, JKUAT
+  ██╔══██╗████╗ ████║       Kernel: React · Laravel · MySQL
+  ██║  ██║██╔████╔██║       Shell: TypeScript, Next.js, Angular,
+  ██║  ██║██║╚██╔╝██║               Flask, C#/.NET
+  ██████╔╝██║ ╚═╝ ██║       Education: BSc. IT, JKUAT
+  ╚═════╝ ╚═╝     ╚═╝                Diploma in IT, JKUAT
                             Background: ICT Officer @ KBC
                             Location: Nairobi, Kenya
                             Status: open_to_work
@@ -188,11 +187,10 @@ Corporate website: protecting health, environment and spaces.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=davidmusembi&show_icons=true&hide_border=true&bg_color=04070f&title_color=22c55e&icon_color=06b6d4&text_color=94a3b8&ring_color=22c55e" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmusembi&layout=compact&hide_border=true&bg_color=04070f&title_color=22c55e&text_color=94a3b8" alt="Top languages" />
+<img width="49%" src="https://github-readme-stats-eight-flax.vercel.app/api?username=davidmusembi&show_icons=true&hide_border=true&bg_color=04070f&title_color=22c55e&icon_color=06b6d4&text_color=94a3b8&ring_color=22c55e" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=davidmusembi&layout=compact&hide_border=true&bg_color=04070f&title_color=22c55e&text_color=94a3b8" alt="Top languages" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=davidmusembi&hide_border=true&background=04070f&ring=22c55e&fire=06b6d4&currStreakLabel=22c55e&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&dates=475569" alt="GitHub streak" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=davidmusembi&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img width="60%" src="https://streak-stats.demolab.com?user=davidmusembi&hide_border=true&background=04070f&ring=22c55e&fire=06b6d4&currStreakLabel=22c55e&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&dates=475569" alt="GitHub streak" />
 
 <br/><br/>
 
