@@ -21,16 +21,16 @@
 <td width="580">
 
 ```text
-david@nairobi ~ % fetch
+david@Mr.Robot ~ % fetch
 
   ██████╗ ███╗   ███╗       OS: Programmer
   ██╔══██╗████╗ ████║       Kernel: React · Laravel · MySQL
   ██║  ██║██╔████╔██║       Shell: TypeScript, Next.js, Angular,
   ██║  ██║██║╚██╔╝██║               Flask, C#/.NET
   ██████╔╝██║ ╚═╝ ██║       Location: Nairobi, Kenya
-  ╚═════╝ ╚═╝     ╚═╝
+  ╚═════╝ ╚═╝     ╚═╝       Background: Programmer
 
-david@nairobi ~ %
+david@Mr.Robot ~ %
 ```
 
 </td>
