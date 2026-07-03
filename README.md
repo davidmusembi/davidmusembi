@@ -16,26 +16,20 @@
 
 ## whoami
 
-<table>
-<tr>
-<td width="580">
+```diff
+  ██████╗ ███╗   ███╗
+  ██╔══██╗████╗ ████║      david@Mr.Robot
+  ██║  ██║██╔████╔██║      ~ % fetch
+  ██║  ██║██║╚██╔╝██║
+  ██████╔╝██║ ╚═╝ ██║
+  ╚═════╝ ╚═╝     ╚═╝
 
-```text
-david@Mr.Robot ~ % fetch
-
-  ██████╗ ███╗   ███╗       OS: Programmer
-  ██╔══██╗████╗ ████║       Kernel: React · Laravel · MySQL
-  ██║  ██║██╔████╔██║       Shell: TypeScript, Next.js, Angular,
-  ██║  ██║██║╚██╔╝██║               Flask, C#/.NET
-  ██████╔╝██║ ╚═╝ ██║       Location: Nairobi, Kenya
-  ╚═════╝ ╚═╝     ╚═╝       Background: Programmer
-
-david@Mr.Robot ~ %
++ OS: Programmer
++ Kernel: React · Laravel · MySQL
++ Shell: TypeScript, Next.js, Angular, Flask, C#/.NET
++ Location: Nairobi, Kenya
++ Background: Programmer
 ```
-
-</td>
-</tr>
-</table>
 
 I take products from **idea to deployment**: I design and ship production web platforms for real companies and clients, across logistics, healthcare e-commerce, SaaS marketplaces, streaming and fintech. Before going full-time into development I ran enterprise systems, networks and live broadcast infrastructure, so I understand the stack from the server room to the UI.
 
