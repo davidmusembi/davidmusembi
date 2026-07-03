@@ -23,15 +23,12 @@
 ```text
 david@nairobi ~ % fetch
 
-  ██████╗ ███╗   ███╗       OS: Full-Stack Software Developer
+  ██████╗ ███╗   ███╗       OS: Programmer
   ██╔══██╗████╗ ████║       Kernel: React · Laravel · MySQL
   ██║  ██║██╔████╔██║       Shell: TypeScript, Next.js, Angular,
   ██║  ██║██║╚██╔╝██║               Flask, C#/.NET
-  ██████╔╝██║ ╚═╝ ██║       Education: BSc. IT, JKUAT
-  ╚═════╝ ╚═╝     ╚═╝                Diploma in IT, JKUAT
-                            Background: ICT Officer @ KBC
-                            Location: Nairobi, Kenya
-                            Status: open_to_work
+  ██████╔╝██║ ╚═╝ ██║       Location: Nairobi, Kenya
+  ╚═════╝ ╚═╝     ╚═╝
 
 david@nairobi ~ %
 ```
