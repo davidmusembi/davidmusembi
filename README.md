@@ -146,16 +146,6 @@ IPTV streaming storefront: 47K+ live channels, 150K VoDs, subscription tiers.
 </tr>
 <tr>
 <td valign="top">
-<b>Infinite Child Foundation</b><br/>
-<img src="https://img.shields.io/badge/GLOBAL_NGO-ec4899?style=flat-square&labelColor=04070f" alt="Global NGO" /><br/>
-Website for a global NGO empowering children with special needs.
-</td>
-<td align="center" valign="middle">
-<a href="https://www.infinitechildfoundation.org/"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-04070f?style=for-the-badge&logo=googlechrome&logoColor=ec4899" alt="Visit" /></a>
-</td>
-</tr>
-<tr>
-<td valign="top">
 <b>Lidav Enterprises</b><br/>
 <img src="https://img.shields.io/badge/CORPORATE_SITE-84cc16?style=flat-square&labelColor=04070f" alt="Corporate Site" /><br/>
 Corporate website: protecting health, environment and spaces.
